@@ -1,0 +1,230 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+	<meta charset="UTF-8">
+	<title>CV</title>
+	<link rel="stylesheet" href="css/style.css" type="text/css">
+
+</head>
+<body>
+	<div id="header">
+		<div>
+			<div class="logo">
+				<a href=""></a>
+			</div>
+			<ul id="navigation">
+
+
+
+				<li >
+					<a href="index.html">Home</a>
+				</li>
+				<li class="active">
+					<a href="cv.html">Curriculum Vitae</a>
+				</li>
+				<li>
+					<a href="research.html">Research</a>
+				</li>
+				<li>
+					<a href="publications.html">Publications</a>
+				</li>
+
+			</ul>
+		</div>
+	</div>
+	<div id="contents">
+		
+		<div id="about">
+			<h1><font color="red">Education</font></h1>
+
+
+	<b>Doctor of Philosophy</b>
+	<ul>	
+		<li>Civil & Env. Eng., Colorado State Univ., Fort Collins, CO, USA, Jan. 2011 - Dec. 2014</li>
+
+		<li>Dissertation Title: <i>Turbulence Modeling of Stably Stratified Wall-Bounded Flows</i></li>
+		<li>Advisor: Prof. Subhas K. Venayagamoorthy</li>
+	</ul>
+
+
+
+	 <b>Master of Science</b>
+	<ul>	
+		<li>Civil & Env. Eng., Sharif University of Technology, Tehran, Iran, Sept. 2007 - Jan. 2010</li>
+
+		<li>Thesis Title: <i>Experimental Study of Two-Phase Slug Flow in a Rectangular Channel with Adverse Slope</i></li>
+		<li>Advisor: Prof. Seyed Mahmood Borghei</li>
+	</ul>
+
+		<b> Bachelor of Science in Engineering</b>
+	<ul>	
+		<li>Civil & Env. Eng., Iran Univ. of Sci. & Tech., Tehran, Iran,  Sept. 2003 - Sept. 2007</li>
+	</ul>
+
+
+					</div>
+
+
+
+</br>
+
+
+
+<div id="about">
+
+
+
+			<h1><font color="red">Research Interests</font></h1>
+			
+			<ul>
+				<li >
+					Wall-Bounded Turbulence
+				</li>
+				<li>
+Turbulence Modeling
+				</li>
+				<li>
+Stratified Turbulence and Turbulent Mixing
+				</li>
+				<li>
+Environmental Fluid Mechanics
+				</li>
+				<li>
+Internal Waves
+				</li>
+
+
+			</ul>
+
+					</div>
+</br>
+
+
+
+
+
+
+
+
+
+
+
+
+<div id="about">
+			<h1><font color="red">Awards and Honors</font></h1>
+			
+			<ul>
+
+				<li >
+Student Travel Award, ISSF, Iowa City, Iowa, Summer 2012
+				</li>
+				<li>
+Borland Scholarship, Spring 2012
+				</li>
+				<li>
+Student Travel Grant, APS-DFD meeting, Baltimore, MD, Fall 2011
+				</li>
+				<li>
+Borland Scholarship, Fall 2011
+				</li>
+				<li>
+Jack Cermack Wind Engineering Scholarship, Fall 2011
+				</li>
+
+				<li>
+Borland Scholarship, Spring 2011
+				</li>
+
+			</ul>
+
+
+					</div>
+</br>
+
+
+
+
+
+
+		<div id="about">
+			<h1><font color="red">Teaching Experience</font></h1>
+
+
+	<b>Instructor</b>
+	<ul>	
+		<li><i>Engineering Mechanics - Dynamics</i>, Colorado State University, Summer 2014</li>
+
+	</ul>
+
+
+
+	<b>Guest Lecturer</b>
+	<ul>	
+		<li><i>Fluid Mechanics</i>, Colorado State University, Fall 2013 and Spring 2014</li>
+
+		<li><i> Fluid Turbulence and Modeling</i>, Colorado State University, Spring 2013</li>
+	</ul>
+
+	<b><font color="red">Teaching Assistant</font></b>
+	<ul>	
+		<li><i>Hydraulics</i>, Sharif University of Technology, Fall 2008 and Spring 2009</li>
+
+		<li><i> Advanced Hydraulics</i>, Sharif University of Technology, Fall 2008</li>
+		<li><i> Statics</i>, Iran University of Science and Technology, Spring 2007</li>
+		<li><i> Laboratory of Strength of Materials</i>, Iran University of Science and Technology, Spring 2007</li>
+	</ul>
+
+
+					</div>
+</br>
+
+
+
+
+<div id="about">
+			<h1><font color="red">Professional Membership</font></h1>
+			
+			<ul>
+
+				<li >
+American Physical Society (APS)
+				</li>
+				<li>
+Americal Society of Civil Engineers (ASCE)
+				</li>
+				<li>
+American Geophysical Union (AGU)
+				</li>
+
+
+			</ul>
+
+<p style="font-size:18px;color:black" align="justify">You can also find my  <a style="color:blue" href="Farid.pdf">short CV</a> here.
+<p>
+					</div>
+
+
+</br>
+
+
+
+
+
+
+	</div>
+
+
+
+
+	<div id="footer">
+		<div class="clearfix">
+			<div id="connect">
+				 <p><a href="https://www.linkedin.com/pub/farid-karimpour/34/172/150"><img src="images/logoIN.png" width="30" ></a><a href="http://www.researchgate.net/profile/Farid_Karimpour"><img src="images/logoRG.jpg" width="30" ></a><a href="http://scholar.google.com/citations?user=MnViKvoAAAAJ&hl=en"><img src="images/gg.png" width="30" ></a></p>
+			</div>
+			<p>
+				© 2014 Farid Karimpour. All Rights Reserved.
+			</p>
+		</div>
+	</div>
+</body>
+</html>

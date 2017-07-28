@@ -1,0 +1,97 @@
+<!DOCTYPE HTML>
+<!-- Website template by freewebsitetemplates.com -->
+<html>
+<head>
+	<meta charset="UTF-8">
+	<title>About - Zerotype Website Template</title>
+	<link rel="stylesheet" href="css/style.css" type="text/css">
+</head>
+<body>
+	<div id="header">
+		<div>
+			<div class="logo">
+				<a href=""></a>
+			</div>
+			<ul id="navigation">
+				<li>
+					<a href="index.html">Home</a>
+				</li>
+				<li>
+					<a href="features.html">Curriculum Vitae</a>
+				</li>
+				<li>
+					<a href="news.html">Research</a>
+				</li>
+				<li class="active">
+					<a href="about.html">Publications</a>
+				</li>
+
+			</ul>
+		</div>
+	</div>
+	<div id="contents">
+		<div id="about">
+			<h1>Refereed Journal Articles</h1>
+			
+				<ul>
+				<li><b>Karimpour, F. </b>and<b> </b>Venayagamoorthy, S. K. 2014.<b> </b>"<u style="color:brown">A 
+				revisit of the equilibrium assumption for predicting near-wall 
+				turbulence</u></span>&quot;,<b> </b><em>J. Fluid Mech.</em>,<b> </b>In 
+				Press<b>. </b></li>
+					<li><b>Karimpour, F.</b> and Venayagamoorthy, S. K. 2014. "<a style="color:brown" href="http://onlinelibrary.wiley.com/doi/10.1002/2013JC009332/abstract">A simple turbulence model for stably stratified wall-bounded flows</a>", 
+					<em>J. Geophys. Res. : Oceans</em>.</li>
+				<li><b>Karimpour, F. </b>and Venayagamoorthy, S. K. 2013. "<a style="color:brown" href="http://journals.cambridge.org/action/displayAbstract?fromPage=online&aid=8878035">Some insights for the prediction of near-wall turbulence </a>", 
+				<em>J. Fluid Mech.</em>, 723, pp 126-139. </li>
+				</ul>
+
+
+
+					</div>
+</br>
+		<div id="about">
+			<h1>Selected Conference Presentations</h1>
+
+
+			<ul>
+				<li><b>Karimpour, F. </b>and Venayagamoorthy, S. K. 2013. “A hybrid RANS closure scheme for the near-wall turbulence”, 66th Annual Meeting of the Division of Fluid Dynamics, American Physical Society, November 2013, Pittsburgh, PA, USA. </li>
+				
+
+		<li>Venayagamoorthy, S. K and <b>Karimpour, F.</b> 2013. “Turbulent mixing in stratified wall-bounded turbulent flows”, 66th Annual Meeting of the Division of Fluid Dynamics, American Physical Society, November 2013, Pittsburgh, PA, USA. </li>
+
+
+				<li><b>Karimpour, F.</b> and Venayagamoorthy, S. K. 2012. “A zero-equation closure model for wall-bounded stably stratified flows”, 65th Annual Meeting of the Division of Fluid Dynamics, American Physical Society, November 2012, San Diego, CA, USA. </li>
+
+
+				<li><b>Karimpour, F. </b>and Venayagamoorthy, S. K. 2012. “Improved RANS Turbulence models for Stably Stratified Environmental Flows”, Proceedings of the third International Symposium on Shallow Flows, June 2012, Iowa City, IA, USA. </li>
+
+
+				<li><b> Karimpour, F.</b> and Venayagamoorthy, S. K. 2011. Evaluation and Improvement of RANS models for Stably Stratified Turbulence”, 64th Annual Meeting of the Division of Fluid Dynamics, American Physical Society, 20-22 November 2011, Baltimore, Maryland, USA. </li>
+				
+			
+			</ul>
+
+
+
+
+
+
+					</div>
+
+
+	</div>
+
+
+
+
+	<div id="footer">
+		<div class="clearfix">
+			<div id="connect">
+				 <p><a href="https://www.linkedin.com/pub/farid-karimpour/34/172/150"><img src="images/logoIN.png" width="30" ></a><a href="https://www.researchgate.net"><img src="images/logoRG.jpg" width="30" ></a><a href="http://scholar.google.com/citations?user=MnViKvoAAAAJ&hl=en"><img src="images/gg.png" width="30" ></a></p>
+			</div>
+			<p>
+				© 2014 Farid Karimpour. All Rights Reserved.
+			</p>
+		</div>
+	</div>
+</body>
+</html>
